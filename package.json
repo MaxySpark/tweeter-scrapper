@@ -1,0 +1,29 @@
+{
+  "name": "tweeter-scrapper",
+  "version": "1.0.0",
+  "description": "A Twitter Scrapper",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxySpark/tweeter-scrapper.git"
+  },
+  "keywords": [
+    "twitter",
+    "scrapper",
+    "tweet"
+  ],
+  "author": "MaxySpark <hello@maxyspark.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaxySpark/tweeter-scrapper/issues"
+  },
+  "homepage": "https://github.com/MaxySpark/tweeter-scrapper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.83.0",
+    "underscore": "^1.8.3"
+  }
+}
